@@ -1,6 +1,6 @@
 # React Context API example
 
-# Tech stack
+## Tech Stack 🚀
 
 - React
 - TailwindCSS
